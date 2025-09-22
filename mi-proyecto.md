@@ -8,9 +8,5 @@ Este es mi primer proyecto usando Git.
 Editado desde GitHub web interface
 
 
-
 ## Información del proyecto
-Versión desarrollada en rama main
-
-## Información del proyecto
-Versión desarrollada en rama main
+Versión desarrollada en ambas ramas
