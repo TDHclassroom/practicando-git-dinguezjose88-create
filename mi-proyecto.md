@@ -16,3 +16,6 @@ Versión desarrollada en rama feature
 
 ## Información del proyecto
 Versión desarrollada en rama main
+
+## Información del proyecto
+Versión desarrollada en rama main
