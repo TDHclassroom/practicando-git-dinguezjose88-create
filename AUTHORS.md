@@ -1,4 +1,3 @@
 # Authors
 
-- José Alberto (dinguezjose88-create
-)
+- José Alberto (jose alberto)
