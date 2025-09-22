@@ -1,3 +1,3 @@
-# Authors
+# Autores
 
-- José Alberto (jose alberto)
+- José Alberto (Tu Rol o Descripción)
